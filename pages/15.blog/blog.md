@@ -4,7 +4,7 @@ hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 body_classes: 'header-dark header-transparent'
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-small'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
@@ -28,10 +28,10 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'News, tips and reflections for all the courses'
 pagination: true
 child_type: item
 ---
 
-# My **Open Course** Space
-## Create, Share and Collaborate
+# Course **Blog**
+## News, tips and reflections for all the courses

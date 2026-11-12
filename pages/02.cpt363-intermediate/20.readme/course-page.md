@@ -1,5 +1,6 @@
 ---
 title: Read Me
+menu: 'About This Example'
 published: true
 hide_page_title: true
 ---

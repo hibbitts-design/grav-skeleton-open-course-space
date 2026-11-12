@@ -5,6 +5,6 @@ visible: false
 position: top
 ---
 
-#### Markdown Area
+#### About This Blog
 
-Some text here.
+News, tips and reflections shared with all the courses.
