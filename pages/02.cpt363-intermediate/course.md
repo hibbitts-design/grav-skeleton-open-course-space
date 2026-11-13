@@ -1,7 +1,5 @@
 ---
 title: CPT363-2
-badge_label: 'More features'
-badge_color: blue
 published: true
 hide_from_menu: true
 description: 'This is an intermediate example course, organised by modules, using a moderate number of page types and features.'
