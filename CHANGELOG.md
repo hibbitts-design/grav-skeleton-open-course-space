@@ -6,6 +6,8 @@
     * Getting Started and README: the example courses that are switched off, and how to turn them on
     * The Courses page intro speaks to visitors, with the example course and how to turn on the others
     * Getting Started: how the home page works, and links that open the pages and settings it mentions
+1. [](#bugfix)
+    * Module 3's video, which is no longer on YouTube, is now Nielsen Norman Group's Customer Journey Mapping 101
 
 # v0.9.1
 ## 11/13/2026
