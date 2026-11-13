@@ -19,7 +19,7 @@ For example, the URL [demo.hibbittsdesign.org/grav-open-course-space/cpt363-basi
 
 ## Modules, Weekly Units, and a Blog
 
-Each course can be organised its own way. Modules work as in Grav Helios Course Hub: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons through every module and page. A blog page can instead list weekly units, newest first. The site also has a [Blog](/blog) shared by all its courses, for news, tips and reflections.
+Each course can be organised its own way. Modules work as in Grav Helios Course Hub: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons through every module and page. A blog page can instead list weekly units, newest first. For news, tips and reflections, the site has a [Blog](/blog) shared by all its courses, and a course can have its own, like [CPT363-2's Blog](/cpt363-intermediate/blog).
 
 The example courses show each one: [CPT363-1](/cpt363-basic/modules) and [CPT363-2](/cpt363-intermediate/modules) are organised by modules, and [CPT363-3](/cpt363-advanced/weekly-units) is organised by weekly units.
 

@@ -25,7 +25,7 @@ A complete, pre-configured package that gives one course or many an open home in
 
 - **One course or many** – a Courses page with a card for each course; with only one course, the logo goes straight to it
 - **Each course its own space** – a course navbar with the course's name and pages (a dropdown when they don't fit, usually on phones), plus its own colour, header image, sidebar and footer
-- **Modules or weekly units, plus a blog** – each course is organised its own way: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons, as in [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub), and a site Blog shared by all courses
+- **Modules or weekly units, plus a blog** – each course is organised its own way: a Modules page with a card for each module, a list of modules beside every module page, and Previous and Next buttons, as in [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub), and a site Blog shared by all courses or a course's own, as in CPT363-2
 - **A course-ready structure** – a Home page with "What's Happening This Week" reminders, plus schedule, resources and syllabus pages
 - **Share content between courses** – reuse any page or section across courses with the included Page Inject plugin
 - **LMS embedding without LTI** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, ready to embed in Canvas, Moodle, Brightspace or Blackboard
@@ -131,6 +131,7 @@ The site's main address still opens as before, and both addresses share the same
 - **Home** – the course's "What's Happening This Week" reminders and preparations, kept in its own parts (`_reminders`, `_preparations`) and shown with Page Inject, so the same text can appear on the `lms-home` page too
 - **Modules** – a **Modules** page (`module.md`) with a card for each module; each module is a **Course Page** inside it (its Description and Group set its card), with the module list beside it, a link back to the Modules page, and Previous and Next buttons through every module and page
 - **Weekly units** – a blog page inside the course, as in CPT363-3; weekly units hide their post dates and tags (`hide_post_date`, `hide_post_taxonomy`)
+- **A course blog** – a blog page inside the course, as in CPT363-2; set its `blog_url` to its own address, and if you start from a copy of the site Blog's page, leave out its `body_classes` line (its see-through header is meant for the top of the page)
 - **Schedule, Resources, Syllabus and the like** – **Course Pages**, which can have Learning Objectives and a header image (`header_image: true`)
 - **The course navbar** – lists the course's visible pages; turn on **Hide from Menu** (on the **Advanced** tab) to leave one out
 

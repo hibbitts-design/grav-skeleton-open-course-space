@@ -1,10 +1,9 @@
 ---
 title: Blog
+subtitle: 'News, tips and reflections for all the courses'
 hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
-body_classes: 'header-dark header-transparent'
-hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-small'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
@@ -33,5 +32,3 @@ pagination: true
 child_type: item
 ---
 
-# Course **Blog**
-## News, tips and reflections for all the courses

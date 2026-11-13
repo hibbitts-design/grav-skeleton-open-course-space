@@ -1,6 +1,6 @@
 name: Open Course Space
-version: 0.9.0
-description: "Open Course Space gives one course or many an open home on the web, managed from one site: a Courses page, modules, schedules, a shared blog and more, all in Markdown. Uses a customized version of the Quark 2 theme (Grav 2), and includes three example courses, plus the Admin Panel and Git Sync plugins."
+version: 0.9.1
+description: "Open Course Space gives one course or many an open home on the web, managed from one site: a Courses page, modules, schedules, blogs and more, all in Markdown. Uses a customized version of the Quark 2 theme (Grav 2), and includes three example courses, plus the Admin Panel and Git Sync plugins."
 icon: graduation-cap
 author:
  name: HibbittsDesign.org
