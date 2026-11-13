@@ -1,5 +1,5 @@
 # v0.9.2
-## XX/XX/2026
+## 11/13/2026
 
 1. [](#improved)
     * Only CPT363-1 is published, so the Courses page starts with a single course card, as in Grav Helios Course Hub – CPT363-2, CPT363-3 and About the Courses are switched off, ready to turn on
