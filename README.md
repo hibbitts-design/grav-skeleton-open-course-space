@@ -74,7 +74,7 @@ Open Course Space is best suited for authors and educators comfortable with web 
 
 ## Course Setup
 
-Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.cpt363-basic` start with a number that sets their order.
+In the Admin Panel, **Getting Started** (in the sidebar) has the first steps, from making an example course your own to removing the ones you don't need – edit it in `user/data/site-readme.md`. Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.cpt363-basic` start with a number that sets their order.
 
 ### Site Name and Home Page
 
@@ -98,6 +98,7 @@ Each course is a top-level folder (`cpt363-basic`, `cpt363-intermediate`, `cpt36
 | **Course Name in Header** | The name in the course navbar, if different from the title |
 | **Course Color** | A light tint of the course navbar, as in Open Course Hub (links keep the site's accent colour) |
 | **Show Header Image on Home Page** | The image in the course's `headerimage` folder, as a banner on its home page |
+| **Course Navbar Below Header Image** | On the home page, the course navbar goes below the banner instead of above it |
 | **Keep My Place** and **Side Box** | A "Continue reading" bar on the Modules page, and Markdown under the module list on every module page |
 | **Show Search Box** | A search box beside the course's pages that searches just the course (on unless turned off) |
 
@@ -114,6 +115,11 @@ The example courses each show different features: CPT363-1 and CPT363-2 are orga
 3. Edit its pages, sidebar, footer and header image, and change links that still include the old folder name (such as `/cpt363-basic/modules/module-04` in the reminders)
 
 With only one course, the logo goes straight to that course's home page. To open the site on the course too, set **Home Page** in **Configuration → System** to its home (for example `/cpt363-basic/home`) – the Courses page stays at `/courses`.
+
+### Removing the Examples
+
+- **An example course** – delete its folder (such as `02.cpt363-intermediate`), or turn off **Show on Courses Page** on its **Course** tab to keep it as a reference
+- **A site page you don't need**, such as the **Blog** or **About the Courses** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
 
 ### Give a Course Its Own Address
 
