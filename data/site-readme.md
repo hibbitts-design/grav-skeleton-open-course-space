@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your Open Course Space. It comes with three example courses – make one your own, then remove the ones you don't need.
+Welcome to your Open Course Space. It comes with three example courses – adapt one, then remove the ones you don't need.
 
 ## Make a Course Your Own
 
@@ -18,5 +18,5 @@ Welcome to your Open Course Space. It comes with three example courses – make 
 
 ## Find Out More
 
-- **Each example course's About This Example page** shows what it demonstrates
-- **The README** has every setting: [Open Course Space on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme)
+- **About This Example**, a page in each example course's menu: what that course demonstrates, and more page types to explore
+- **The README on GitHub**: every setting – [Open Course Space README](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme)
