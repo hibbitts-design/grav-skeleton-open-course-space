@@ -2,17 +2,19 @@
 
 Welcome to your Open Course Space. It comes with an example course, CPT363-1, and three more that are switched off – CPT363-2 and CPT363-3, with more features, and a Sample Course to start your own from.
 
-**How editing works** – open a page in **Pages**, change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
+**How editing works** – open a page in [**Pages**](admin:/pages), change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
+
+**How the home page works** – **Courses** shows a card for each published course; with just one, the logo goes straight to that course.
 
 ## Start with Your Site
 
-1. **Name** your site – set **Site Title** in **Configuration → Site**
-2. **Add** your logo and colour – set **Custom Logo** and **Accent Color** in **Themes → My Theme**
-3. **Change** the welcome text on the **Courses** page
+1. **Name** your site – set **Site Title** in [**Configuration → Site**](admin:/config/site)
+2. **Add** your logo and colour – set **Custom Logo** and **Accent Color** in [**Themes → My Theme**](admin:/themes/mytheme)
+3. **Change** the welcome text on the [**Courses**](admin:/pages/edit/courses) page
 
 ## Make a Course Your Own
 
-Start from the **Sample Course**, a small course with writing prompts on every page – it's switched off, so turn on **Published** to see it. Or adapt CPT363-1, a full example.
+Start from the [**Sample Course**](admin:/pages/edit/sample-course), a small course with writing prompts on every page – it's switched off, so turn on **Published** to see it. Or adapt [CPT363-1](admin:/pages/edit/cpt363-basic), a full example.
 
 1. **Open** the course in **Pages**
 2. **Rename** it with **Course Title**, and update its **Course Card Description** and **Instructor(s)** on its **Course** tab
@@ -27,6 +29,6 @@ For another course, use **Copy page** on a course you've set up.
 
 - **An example course** – delete it, or turn off **Published** to keep it as a reference
 - **A page in a course's menu** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The site's Blog** – delete it, or turn on **Hide from Menu**
+- **The site's [Blog](admin:/pages/edit/blog)** – delete it, or turn on **Hide from Menu**
 
 For every setting and more how-tos, see the [Open Course Space README](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme) on GitHub.
