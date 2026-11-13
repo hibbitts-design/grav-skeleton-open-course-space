@@ -110,6 +110,8 @@ The example courses each show different features: CPT363-1 and CPT363-2 are orga
 
 ### Adding a Course
 
+The quickest start is the **Sample Course** (`04.sample-course`, unpublished): a small course with writing prompts on every page – a Welcome module and two modules, plus Schedule, Resources and Syllabus. Turn on **Published**, then replace its text. Or:
+
 1. Copy an existing course folder, such as `01.cpt363-basic`, and rename it
 2. Set its title and card settings on its **Course** tab
 3. Edit its pages, sidebar, footer and header image, and change links that still include the old folder name (such as `/cpt363-basic/modules/module-04` in the reminders)
@@ -119,6 +121,7 @@ With only one course, the logo goes straight to that course's home page. To open
 ### Removing the Examples
 
 - **An example course** – delete its folder (such as `02.cpt363-intermediate`), or turn off **Show on Courses Page** on its **Course** tab to keep it as a reference
+- **The Sample Course** – delete `04.sample-course` if you don't need it
 - **A site page you don't need**, such as the **Blog** or **About the Courses** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
 
 ### Give a Course Its Own Address

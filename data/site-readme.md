@@ -12,7 +12,7 @@ Welcome to your Open Course Space. It comes with three example courses – adapt
 
 ## Make a Course Your Own
 
-1. **Open** a course in **Pages** – CPT363-1 is the simplest to start from
+1. **Open** a course in **Pages** – the **Sample Course** has writing prompts on every page and is switched off, so turn on **Published** to see it; or adapt CPT363-1, a full example
 2. **Rename** it with **Course Title**, and update its **Course Card Description** and **Instructor(s)** on its **Course** tab
 3. **Pick** a **Course Color** for its navbar, on the same tab
 4. **Swap** the header picture – in its **Header Image** page, add yours under **Page Media** and delete the old one
