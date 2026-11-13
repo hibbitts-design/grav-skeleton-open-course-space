@@ -4,7 +4,7 @@ Welcome to your Open Course Space. It comes with an example course, CPT363-1, an
 
 **How editing works** – open a page in [**Pages**](admin:/pages), change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
 
-**How the home page works** – **Courses** shows a card for each published course; with just one, the logo goes straight to that course.
+**How the home page works** – **Courses** shows a card for each published course; with just one, the logo goes straight to that course. [View the home page](../../) to see it as visitors do.
 
 ## Start with Your Site
 
@@ -29,6 +29,7 @@ For another course, use **Copy page** on a course you've set up.
 
 - **An example course** – delete it, or turn off **Published** to keep it as a reference
 - **A page in a course's menu** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The site's [Blog](admin:/pages/edit/blog)** – delete it, or turn on **Hide from Menu**
+- **The site's [Blog](admin:/pages/edit/blog)** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
+- **The switched-off example** (the [About the Courses](admin:/pages/edit/about-the-courses) page) – keep it as a reference, or delete it
 
 For every setting and more how-tos, see the [Open Course Space README](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme) on GitHub.
