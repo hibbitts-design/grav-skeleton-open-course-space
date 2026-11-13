@@ -4,8 +4,8 @@ published: true
 hide_from_menu: true
 description: 'This is an advanced example course, organised by weekly units, using a large number of page types and features.'
 instructor: 'Teaching Team: Some Name & Another Name'
-badge_label: 'New Section'
-badge_color: blue
+badge_label: 'Weekly units'
+badge_color: purple
 course_home: home
 navbar_bg_color: '#a0522d'
 page-inject:

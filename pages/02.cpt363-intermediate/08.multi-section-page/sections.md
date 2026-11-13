@@ -1,5 +1,6 @@
 ---
 title: 'Multi-Section Page'
+hide_from_menu: true
 published: true
 hide_page_title: true
 show_sidebar: false

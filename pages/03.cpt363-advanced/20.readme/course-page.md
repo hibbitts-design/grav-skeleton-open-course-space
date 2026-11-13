@@ -27,6 +27,15 @@ The example courses show each one: [CPT363-1](/cpt363-basic/modules) and [CPT363
 
 Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into a Grav course organised by modules – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/). It's made for Open Course Hub, so for this site, move its pages into a course folder with a `course.md` page.
 
+## More Page Types to Explore
+
+These pages are left out of the course menu, to keep it short, but show more of what a course can hold:
+
+- [UX Techniques Guide](/cpt363-advanced/ux-techniques-guide) – an accordion page, whose sections open and close
+- [Weekly Readings](/cpt363-advanced/weekly-readings) – one page gathering its own pages, here a link preview card for each week's reading
+
+To show one in the menu, turn off **Hide from Menu** on its **Advanced** tab.
+
 ## Give a Course Its Own Address
 
 Want a course to open at its own address, such as `cpt363.example.edu`? Point a second domain or subdomain at this site's folder (your web host's control panel can do this), then create `user/env/<that address>/config/system.yaml` with:

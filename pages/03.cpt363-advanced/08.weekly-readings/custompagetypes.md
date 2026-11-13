@@ -1,5 +1,6 @@
 ---
 title: Weekly Readings
+hide_from_menu: true
 published: true
 child_type: embedlycard
 visible: true
