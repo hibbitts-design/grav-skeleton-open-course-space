@@ -118,7 +118,7 @@ The quickest start is the **Sample Course** (`04.sample-course`, unpublished): a
 2. Set its title and card settings on its **Course** tab
 3. Edit its pages, sidebar, footer and header image, and change links that still include the old folder name (such as `/cpt363-basic/modules/module-04` in the reminders)
 
-With only one course, the logo goes straight to that course's home page. To open the site on the course too, set **Home Page** in **Configuration → System** to its home (for example `/cpt363-basic/home`) – the Courses page stays at `/courses`.
+With only one course, the logo goes straight to that course's home page (to keep it on the Courses page, set **Single Guide or Course Logo Link** to Site Home Page in **Themes → My Theme**). To open the site on the course too, set **Home Page** in **Configuration → System** to its home (for example `/cpt363-basic/home`) – the Courses page stays at `/courses`.
 
 ### Removing the Examples
 
