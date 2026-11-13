@@ -1,6 +1,6 @@
 ---
 title: CPT363-2
-published: true
+published: false
 hide_from_menu: true
 description: 'This is an intermediate example course, organised by modules, using a moderate number of page types and features.'
 instructor: 'Instructor: Some Name'

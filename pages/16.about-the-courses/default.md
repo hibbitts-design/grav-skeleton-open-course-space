@@ -1,6 +1,6 @@
 ---
 title: 'About the Courses'
-published: true
+published: false
 ---
 
 # About the Courses

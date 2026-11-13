@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your Open Course Space. It comes with three example courses – adapt one, then remove the ones you don't need.
+Welcome to your Open Course Space. It comes with an example course, CPT363-1, and three more that are switched off – CPT363-2 and CPT363-3, with more features, and a Sample Course to start your own from.
 
 **How editing works** – open a page in **Pages**, change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
 
@@ -25,8 +25,8 @@ For another course, use **Copy page** on a course you've set up.
 
 ## Remove What You Don't Need
 
-- **An example course** – delete it, or turn off **Show on Courses Page** to keep it as a reference
+- **An example course** – delete it, or turn off **Published** to keep it as a reference
 - **A page in a course's menu** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The site's Blog or About the Courses page** – delete it, or turn on **Hide from Menu**
+- **The site's Blog** – delete it, or turn on **Hide from Menu**
 
 For every setting and more how-tos, see the [Open Course Space README](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme) on GitHub.

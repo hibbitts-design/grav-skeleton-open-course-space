@@ -108,6 +108,8 @@ Each course is in the site menu, as guides are in Open Publishing Space; turn on
 
 The example courses each show different features: CPT363-1 and CPT363-2 are organised by modules (CPT363-2 with more page types), and CPT363-3 is organised by weekly units (`cpt363-advanced/weekly-units`) and shows an OER attribution and license on its pages.
 
+Only CPT363-1 is published, so the Courses page starts with a single course card – a clean start for a one-course site. To see the other examples, turn on **Published** for CPT363-2 and CPT363-3, and for **About the Courses**, which describes all three.
+
 ### Adding a Course
 
 The quickest start is the **Sample Course** (`04.sample-course`, unpublished): a small course with writing prompts on every page – a Welcome module and two modules, plus Schedule, Resources and Syllabus. Turn on **Published**, then replace its text. Or:
@@ -120,9 +122,9 @@ With only one course, the logo goes straight to that course's home page. To open
 
 ### Removing the Examples
 
-- **An example course** – delete its folder (such as `02.cpt363-intermediate`), or turn off **Show on Courses Page** on its **Course** tab to keep it as a reference
+- **An example course** – delete its folder (such as `02.cpt363-intermediate`), or turn off **Published** to keep it as a reference
 - **The Sample Course** – delete `04.sample-course` if you don't need it
-- **A site page you don't need**, such as the **Blog** or **About the Courses** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
+- **A site page you don't need**, such as the **Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
 
 ### Give a Course Its Own Address
 
@@ -154,7 +156,7 @@ Each course also has its own shared parts, which don't appear in the menu:
 
 To include a page from one course in another, add `[plugin:page-inject](/cpt363-basic/resources)` with the page's route. Edits to the original then appear in every course that includes it.
 
-Pages for every course sit outside the courses, in the site menu: the **Blog** (`15.blog`) and **About the Courses** (`16.about-the-courses`), with the sections, important dates and policies they share.
+Pages for every course sit outside the courses, in the site menu: the **Blog** (`15.blog`) and **About the Courses** (`16.about-the-courses`, switched off – turn it on for a site with several courses), with the sections, important dates and policies they share.
 
 ### Theme Options
 
