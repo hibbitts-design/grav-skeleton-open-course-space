@@ -10,9 +10,11 @@
     * Less common page types (Multi-Section Page, an accordion page, Weekly Readings) are left out of the course menus, and listed under More Page Types to Explore on the course's About This Example page
     * Getting Started in the Admin 2 sidebar (with the Admin2 Site ReadMe plugin): how editing works, naming the site, making an example course your own and removing the ones you don't need
     * README: Removing the Examples, and the Course Navbar Below Header Image setting
+    * Sample Course (unpublished): a small course to start your own from, with writing prompts on every page – a Welcome module, two modules with a video, slides, a button and a Key Takeaways box, plus Schedule, Resources and Syllabus
     * README: the free successor to Open Course Hub and Open MultiCourse Hub, with screenshots of a course with the slate blue course navbar
 1. [](#bugfix)
     * Read Me pages and the demo link point to the demo's address without -2
+    * Module 5's usability testing video, no longer on YouTube, is replaced in all three example courses
 
 # v0.9.0
 ## 11/13/2026
