@@ -4,6 +4,8 @@
 1. [](#improved)
     * Only CPT363-1 is published, so the Courses page starts with a single course card, as in Grav Helios Course Hub – CPT363-2, CPT363-3 and About the Courses are switched off, ready to turn on
     * Getting Started and README: the example courses that are switched off, and how to turn them on
+    * The Courses page intro speaks to visitors, with the example course and how to turn on the others
+    * Getting Started: how the home page works, and links that open the pages and settings it mentions
 
 # v0.9.1
 ## 11/13/2026
