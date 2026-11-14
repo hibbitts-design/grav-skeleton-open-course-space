@@ -50,6 +50,8 @@ The site's main address still opens as before, and both addresses share the same
 ## What Else Can the Open Course Space do for You? ##
 Learn more about the capabilities of the Open Course Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-course-space#readme).
 
+**Header image** – photo by [Hugo Rocha](https://unsplash.com/@hugorrocha) on [Unsplash](https://unsplash.com/)
+
 <hr>
 
 Want to no longer display this page on your site?  
