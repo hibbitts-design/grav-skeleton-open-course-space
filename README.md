@@ -94,7 +94,7 @@ Each course is a top-level folder (`cpt363-basic`, `cpt363-intermediate`, `cpt36
 | **Course Card Description**, **Instructor(s)**, **Course Card Image** and **Course Card Title** | The course's card on the Courses page (the image is the course's header image unless set) |
 | **Courses Page Group**, **Badge Label** and **Badge Color** | A heading for the card, and a short status on it, such as "New" |
 | **Show on Courses Page** | Whether the card appears |
-| **Course Home Page** | The course's home page, such as `home` (its first page unless set) |
+| **Course Home Page** | The course's home page, such as `home` (its first page unless set); set it to `modules` to open the course on its Modules page, which then shows the header image |
 | **Course Name in Header** | The name in the course navbar, if different from the title |
 | **Course Color** | A light tint of the course navbar, as in Open Course Hub (links keep the site's accent colour) |
 | **Show Header Image on Home Page** | The image in the course's `headerimage` folder, as a banner on its home page |
