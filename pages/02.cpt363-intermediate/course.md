@@ -5,7 +5,7 @@ hide_from_menu: true
 description: 'This is an intermediate example course, organised by modules, using a moderate number of page types and features.'
 instructor: 'Instructor: Some Name'
 course_home: home
-navbar_bg_color: '#2e7d57'
+navbar_bg_color: '#6f8f1f'
 page-inject:
     processed_content: true
 ---

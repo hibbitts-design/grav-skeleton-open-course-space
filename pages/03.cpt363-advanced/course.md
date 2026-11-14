@@ -5,7 +5,7 @@ hide_from_menu: true
 description: 'This is an advanced example course, organised by weekly units, using a large number of page types and features.'
 instructor: 'Teaching Team: Some Name & Another Name'
 course_home: home
-navbar_bg_color: '#a0522d'
+navbar_bg_color: '#3a8da1'
 page-inject:
     processed_content: true
 show_oer_attribution: true
