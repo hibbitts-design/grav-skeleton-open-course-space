@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * New header images for the three example courses – photos of a real design session by Hugo Rocha on Unsplash, credited on each course's About This Example page
+    * Each example course's Course Color now comes from its header image – warm wood for CPT363-1, lime green for CPT363-2 and the blue of the sticky notes for CPT363-3
 
 # v0.9.2
 ## 11/13/2026
