@@ -1,3 +1,9 @@
+# v0.9.3
+## XX/XX/2026
+
+1. [](#improved)
+    * New header images for the three example courses – photos of a real design session by Hugo Rocha on Unsplash, credited on each course's About This Example page
+
 # v0.9.2
 ## 11/13/2026
 
