@@ -1,3 +1,10 @@
+# v0.9.4
+## 11/16/2026
+
+1. [](#improved)
+    * README: which features load from other sites (Font Awesome from cdnjs, Embedly cards)
+    * Removed Grav 1.7-era settings that Grav 2 ignores (`twig.autoescape`, `strict_mode.twig_compat` and `blueprint_compat`) and `config/versions.yaml`, which Grav writes itself on install
+
 # v0.9.3
 ## 11/15/2026
 
