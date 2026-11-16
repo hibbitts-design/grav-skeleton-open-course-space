@@ -166,6 +166,8 @@ Under **Themes → My Theme** (see the [Quark 2 Open Publishing README](https://
 - **Layout** – logo, header and footer style, and a chromeless site (no menu, sidebar or footer)
 - **More** – Creative Commons license, custom menu items, and the Git Sync Link (see below)
 
+Two things load from other sites: Font Awesome icons come from cdnjs.cloudflare.com (to serve them from your own site, add Font Awesome's files to the theme and turn on **Serve Font Awesome Locally** on the **Quark 2** tab), and `[embedly]` link cards come from cdn.embedly.com – `[linkpreviewcard]` makes link cards on your own site instead.
+
 ### Embedding in Your LMS
 
 Add one of these to any page's address to show only its content, without the menu, sidebar or footer, ready to embed in a Canvas, Moodle, Brightspace or Blackboard page:

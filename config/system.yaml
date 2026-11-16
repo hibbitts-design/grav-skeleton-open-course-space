@@ -90,7 +90,6 @@ twig:
   cache: true
   debug: true
   auto_reload: true
-  autoescape: false
   undefined_functions: true
   undefined_filters: true
   umask_fix: false
@@ -148,5 +147,3 @@ accounts:
   storage: file
 strict_mode:
   yaml_compat: true
-  twig_compat: true
-  blueprint_compat: true
