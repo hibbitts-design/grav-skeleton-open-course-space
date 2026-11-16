@@ -1,8 +1,8 @@
 # v0.9.5
-## XX/XX/2026
+## 11/16/2026
 
 1. [](#improved)
-    * Description (as shown on getgrav.org) names its twin, Open Publishing Space, in matching wording
+    * Description (as shown on getgrav.org) names its twin, Open Publishing Space, in matching wording, and Admin 2
 
 # v0.9.4
 ## 11/16/2026
