@@ -1,5 +1,5 @@
 # v0.9.6
-## XX/XX/2026
+## 11/17/2026
 
 1. [](#improved)
     * Example courses CPT363-1 and CPT363-2 show their first five modules (Modules 6–13 hidden), like CPT363-3's first five weeks
