@@ -1,5 +1,6 @@
 ---
 title: 'Module 13'
+visible: false
 description: 'What can we learn from UX practitioners?'
 header_image: true
 header_image_credit: 'Claudia Guajardo-Yeo, Flickr.com'

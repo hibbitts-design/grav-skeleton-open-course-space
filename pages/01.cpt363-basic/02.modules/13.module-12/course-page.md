@@ -1,5 +1,6 @@
 ---
 title: 'Module 12'
+visible: false
 description: 'How to get useful feedback on your design work?'
 header_image: true
 header_image_credit: 'Lars Kristian Flem, Flickr.com'

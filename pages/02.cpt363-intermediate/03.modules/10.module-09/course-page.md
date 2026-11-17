@@ -1,5 +1,6 @@
 ---
 title: 'Module 9'
+visible: false
 description: 'How to review and refine your user research findings?'
 header_image: true
 header_image_credit: 'Rosenfeld Media, Flickr.com'

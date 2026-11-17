@@ -1,5 +1,6 @@
 ---
 title: 'Module 10'
+visible: false
 description: 'How to design products for how people think, learn and feel?'
 header_image: true
 header_image_credit: 'Matt Cottam, Flickr.com'

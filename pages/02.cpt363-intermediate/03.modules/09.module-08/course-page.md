@@ -1,5 +1,6 @@
 ---
 title: 'Module 8'
+visible: false
 description: 'How to understand and communicate people''s needs and behaviours?'
 header_image: true
 header_image_credit: 'Nicholas Wang, Flickr.com'

@@ -1,5 +1,6 @@
 ---
 title: 'Module 6'
+visible: false
 description: 'How to conduct a usability inspection?'
 header_image: true
 header_image_credit: 'Rick Dolishny, Flickr.com'

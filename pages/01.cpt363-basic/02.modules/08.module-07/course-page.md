@@ -1,5 +1,6 @@
 ---
 title: 'Module 7'
+visible: false
 description: 'How to design for mobile and multi-device usage?'
 header_image: true
 header_image_credit: 'Blake Patterson, Flickr.com'

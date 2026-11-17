@@ -1,5 +1,6 @@
 ---
 title: 'Module 11'
+visible: false
 description: 'What are the essentials of effective visual communication?'
 header_image: true
 header_image_credit: 'Pat Armstrong, Flickr.com'
