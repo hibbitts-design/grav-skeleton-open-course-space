@@ -6,7 +6,7 @@ header_image_credit: 'Luca Mascaro, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/'
 header_image_alt_text: 'Usability testing'
 ---
-## **How to plan, conduct, and summarize usability tests?**
+## How to plan, conduct, and summarize usability tests?
 
 ### Summaries and Questions  
 [Jun 6th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

@@ -6,7 +6,7 @@ header_image_credit: 'Emilio Küffer, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
 header_image_alt_text: 'Bullseye'
 ---
-## **How to make more strategic design decisions?**
+## How to make more strategic design decisions?
 
 ### Summaries and Questions  
 [May 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

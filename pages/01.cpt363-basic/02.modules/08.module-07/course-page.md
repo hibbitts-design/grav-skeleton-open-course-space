@@ -7,7 +7,7 @@ header_image_credit: 'Blake Patterson, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/blakespot/16230041026/'
 header_image_alt_text: 'iOS family of devices pile (2015)'
 ---
-## **How to design for mobile and multi-device usage?**
+## How to design for mobile and multi-device usage?
 
 ### Summaries and Questions  
 [Jun 20th Class One-minute Summaries](https://canvas.sfu.ca/courses/38847/assignments/292817)

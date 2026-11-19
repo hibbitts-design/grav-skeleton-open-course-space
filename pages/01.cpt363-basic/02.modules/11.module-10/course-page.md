@@ -7,7 +7,7 @@ header_image_credit: 'Matt Cottam, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/mattcottam/6192507935/'
 header_image_alt_text: 'Complex sound mixer'
 ---
-## **How to design products for how people think, learn and feel?**
+## How to design products for how people think, learn and feel?
 
 ### Summaries and Questions  
 [Jul 11th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

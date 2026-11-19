@@ -17,7 +17,7 @@ hide_git_sync_repo_link: true
 
 ===
 
-## **What is usability and user experience design?**
+## What is usability and user experience design?
 
 [objectives]
 * Describe the differences between HCI, UI, IA, IxD and UX

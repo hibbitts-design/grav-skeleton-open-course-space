@@ -16,7 +16,7 @@ header_image_alt_text: 'Interview in coffee shop'
 
 ===
 
-## **How to understand and communicate people's needs and behaviours?**
+## How to understand and communicate people's needs and behaviours?
 
 ### Summaries and Questions  
 [Jun 27 Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

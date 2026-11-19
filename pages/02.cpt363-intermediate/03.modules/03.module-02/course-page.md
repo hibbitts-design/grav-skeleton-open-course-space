@@ -6,7 +6,7 @@ header_image_credit: 'CannedTuna, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 header_image_alt_text: 'Information architecture'
 ---
-## **What does a holistic user experience design process look like?**
+## What does a holistic user experience design process look like?
 
 ### Summaries and Questions  
 [May 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

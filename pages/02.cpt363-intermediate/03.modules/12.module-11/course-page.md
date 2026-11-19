@@ -7,7 +7,7 @@ header_image_credit: 'Pat Armstrong, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/poisontofu/4762082009/'
 header_image_alt_text: 'Dampening and inking the plate'
 ---
-## **What are the essentials of effective visual communication?**
+## What are the essentials of effective visual communication?
 
 ### Summaries and Questions  
 [Jul 18th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

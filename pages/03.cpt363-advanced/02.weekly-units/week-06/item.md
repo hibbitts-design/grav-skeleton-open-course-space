@@ -16,7 +16,7 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 
 ===
 
-## **How to conduct a usability inspection?**
+## How to conduct a usability inspection?
 
 ### Summaries and Questions  
 [Jun 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

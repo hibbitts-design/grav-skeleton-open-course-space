@@ -16,7 +16,7 @@ header_image_alt_text: 'Usability testing'
 
 ===
 
-## **How to plan, conduct, and summarize usability tests?**
+## How to plan, conduct, and summarize usability tests?
 
 ### Summaries and Questions  
 [Jun 6th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

@@ -6,7 +6,7 @@ header_image_alt_text: 'SFU Academic Quadrangle'
 header_image_credit: 'Julian Schüngel, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
 ---
-## **What is usability and user experience design?**
+## What is usability and user experience design?
 
 ### Summaries and Questions  
 [May 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
