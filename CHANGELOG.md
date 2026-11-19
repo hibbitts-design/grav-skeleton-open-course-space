@@ -1,3 +1,9 @@
+# v0.9.7
+## 11/19/2026
+
+1. [](#improved)
+    * Example courses' headings are plain, not bold, so a page's list of sections (and a converted Docsify site's sidebar) isn't all in bold
+
 # v0.9.6
 ## 11/17/2026
 
