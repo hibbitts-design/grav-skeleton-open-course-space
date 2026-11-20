@@ -256,7 +256,7 @@ redirects:
   '/(home|modules|schedule|topics|resources|syllabus|lms-home|lms-schedule)([/?].*)?$': '/cpt363/$1$2'
 ```
 
-The free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns a Canvas, Moodle, Brightspace or Blackboard course into a course folder for Open Course Space – choose the **Grav Open MultiCourse Hub or Open Course Space** destination, then copy the folder into `user/pages`.
+The free [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/) (beta) turns a Canvas, Moodle, Brightspace or Blackboard course into a course folder for Open Course Space – choose the **Grav Open MultiCourse Hub or Open Course Space** destination, then copy the folder into `user/pages`.
 
 ### From Grav Helios Course Hub
 

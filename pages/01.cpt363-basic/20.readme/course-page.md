@@ -25,7 +25,7 @@ The example courses show each one: [CPT363-1](/cpt363-basic/modules) and [CPT363
 
 ## Bring Courses Over from Your LMS
 
-Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into a Grav course organised by modules – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/). It's made for Open Course Hub, so for this site, move its pages into a course folder with a `course.md` page.
+Have a course in Canvas, Moodle, Brightspace, or Blackboard? Export it as a Common Cartridge file, and the free [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/) (beta) turns it into a Grav course organised by modules – see [an example conversion](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/). It's made for Open Course Hub, so for this site, move its pages into a course folder with a `course.md` page.
 
 ## Give a Course Its Own Address
 
