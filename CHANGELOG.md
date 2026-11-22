@@ -1,3 +1,9 @@
+# v0.9.8
+## 11/21/2026
+
+1. [](#improved)
+    * A course's Modules page says "Continue where you left off", as in Open Matter and Helios Course Hub (Quark 2 Open Publishing 1.2.14), and the README names it
+
 # v0.9.7
 ## 11/19/2026
 
