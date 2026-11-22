@@ -99,7 +99,7 @@ Each course is a top-level folder (`cpt363-basic`, `cpt363-intermediate`, `cpt36
 | **Course Color** | A light tint of the course navbar, as in Open Course Hub (links keep the site's accent colour) |
 | **Show Header Image on Home Page** | The image in the course's `headerimage` folder, as a banner on its home page |
 | **Course Navbar Below Header Image** | On the home page, the course navbar goes below the banner instead of above it |
-| **Keep My Place** and **Side Box** | A "Continue reading" bar on the Modules page, and Markdown under the module list on every module page |
+| **Keep My Place** and **Side Box** | A "Continue where you left off" bar on the Modules page, and Markdown under the module list on every module page |
 | **Show Search Box** | A search box beside the course's pages that searches just the course (on unless turned off) |
 
 On its **Attribution** tab, as for a guide: **Show OER Attribution Block**, **License**, **License URL** and **Attribution Text**, shown at the bottom of every page in the course.
